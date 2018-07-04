@@ -1,0 +1,12 @@
+"rp"
+{
+	"base"		"base"
+	"title"		"Urban Life RP"
+	"maps"		""
+	"menusystem"	"1"
+
+	"settings"
+	{
+		// TODO: put some settings here
+	}
+}
